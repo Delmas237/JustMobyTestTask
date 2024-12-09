@@ -1693,7 +1693,7 @@ GameObject:
   - component: {fileID: 1165436944}
   - component: {fileID: 1165436943}
   m_Layer: 5
-  m_Name: QuantityDropdown
+  m_Name: CountSelector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
